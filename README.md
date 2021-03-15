@@ -2,9 +2,9 @@
  藉由階層式的PPO演算法來訓練agent應對不同環境
 
 ## 環境
-Tensorflow=> 1.15
-python=> 3.7.4
-ml-agent=> [release 3](https://github.com/Unity-Technologies/ml-agents/tree/release_3)   
+*Tensorflow=> 1.15 
+*python=> 3.7.4
+*ml-agent=> [release 3](https://github.com/Unity-Technologies/ml-agents/tree/release_3)   
 
 ## 說明
 python和unity資料夾是執行這個專案所需要的程式碼
